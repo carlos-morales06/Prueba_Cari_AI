@@ -49,9 +49,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-4. Ejecutar el Servidor:
-
-uvicorn app.main:app --reload
+4. Ejecutar el Servidor: uvicorn app.main:app --reload
 
 5. Probar la API
 
