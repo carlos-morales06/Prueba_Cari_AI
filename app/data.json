@@ -1,0 +1,90 @@
+[
+    {
+        "pregunta": "¿Cómo cambio mi contraseña?",
+        "respuesta": "Puedes cambiar tu contraseña en la sección de configuración de tu perfil."
+    },
+    {
+        "pregunta": "¿Cuál es el horario de atención?",
+        "respuesta": "Nuestro horario es de lunes a viernes de 8 am a 5 pm."
+    },
+    {
+        "pregunta": "¿Cómo puedo contactar con soporte?",
+        "respuesta": "Puedes contactar con soporte enviando un correo a soporte@empresa.com o llamando al 0800-123-456."
+    },
+    {
+        "pregunta": "¿Dónde puedo ver mis facturas?",
+        "respuesta": "Puedes ver tus facturas en la sección 'Mis facturas' dentro de tu perfil."
+    },
+    {
+        "pregunta": "¿Cómo puedo actualizar mi dirección?",
+        "respuesta": "Para actualizar tu dirección, ve a Configuración > Información personal y edita tu dirección."
+    },
+    {
+        "pregunta": "¿Puedo cambiar mi correo electrónico?",
+        "respuesta": "Sí, puedes cambiar tu correo electrónico en la sección de configuración de tu perfil."
+    },
+    {
+        "pregunta": "¿Cuánto tiempo tarda en llegar mi pedido?",
+        "respuesta": "El tiempo de entrega depende de tu ubicación, pero generalmente toma entre 3 y 5 días hábiles."
+    },
+    {
+        "pregunta": "¿Cómo solicito un reembolso?",
+        "respuesta": "Para solicitar un reembolso, comunícate con nuestro equipo de soporte y revisaremos tu caso."
+    },
+    {
+        "pregunta": "¿Tienen servicio los fines de semana?",
+        "respuesta": "Sí, contamos con atención al cliente los sábados de 9 am a 1 pm."
+    },
+    {
+        "pregunta": "¿Cómo puedo cancelar mi suscripción?",
+        "respuesta": "Para cancelar tu suscripción, ve a Configuración > Suscripción y selecciona la opción de cancelar."
+    },
+    {
+        "pregunta": "¿Ofrecen algún descuento para nuevos clientes?",
+        "respuesta": "Sí, ofrecemos un 10% de descuento en tu primera compra usando el código BIENVENIDO10."
+    },
+    {
+        "pregunta": "¿Cómo puedo cambiar mi método de pago?",
+        "respuesta": "Puedes cambiar tu método de pago en la sección de pagos dentro de tu perfil."
+    },
+    {
+        "pregunta": "¿Puedo recuperar mi cuenta si olvidé mi contraseña?",
+        "respuesta": "Sí, puedes recuperar tu cuenta haciendo clic en 'Olvidé mi contraseña' en la página de inicio de sesión."
+    },
+    {
+        "pregunta": "¿Dónde puedo descargar la aplicación móvil?",
+        "respuesta": "Puedes descargar nuestra aplicación desde la App Store o Google Play buscando 'Empresa App'."
+    },
+    {
+        "pregunta": "¿Cómo activo las notificaciones en mi cuenta?",
+        "respuesta": "Para activar las notificaciones, ve a Configuración > Notificaciones y activa las opciones que prefieras."
+    },
+    {
+        "pregunta": "¿Cómo puedo saber si mi pago fue procesado?",
+        "respuesta": "Recibirás un correo de confirmación cuando tu pago haya sido procesado exitosamente."
+    },
+    {
+        "pregunta": "¿Cuáles son los métodos de pago aceptados?",
+        "respuesta": "Aceptamos pagos con tarjeta de crédito, débito, PayPal y transferencia bancaria."
+    },
+    {
+        "pregunta": "¿Cómo puedo obtener una factura electrónica?",
+        "respuesta": "Puedes descargar tu factura electrónica en la sección 'Mis facturas' dentro de tu cuenta."
+    },
+    {
+        "pregunta": "¿Cómo puedo reportar un problema con mi pedido?",
+        "respuesta": "Si tienes un problema con tu pedido, contacta con nuestro equipo de soporte para recibir ayuda."
+    },
+    {
+        "pregunta": "¿Cómo contacto con soporte?",
+        "respuesta": "Puedes contactar con soporte a través del chat en vivo o por correo electrónico a soporte@empresa.com."
+    },
+    {
+        "pregunta": "¿Cómo contacto accedo al portal de soporte?",
+        "respuesta": "puedes ingresar a www.soporte.com"
+    },
+    {
+        "pregunta": "Cuale es el precio del dolar?",
+        "respuesta": "El precio del dolar en colombia es de 4.250"
+    }
+]
