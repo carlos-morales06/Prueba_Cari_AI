@@ -49,7 +49,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-4. Ejecutar el Servidor
+4. Ejecutar el Servidor:
 
 uvicorn app.main:app --reload
 
