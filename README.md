@@ -11,47 +11,49 @@ Agregar nuevas preguntas y respuestas: Los asesores pueden enriquecer la base de
 Interfaz web: Una página simple permite interactuar con la API sin necesidad de herramientas externas.
 
 Estructura del Proyecto.
+
 1. Módulo principal (main.py)
 
-Este archivo define los endpoints de la API utilizando FastAPI y maneja la lógica de consulta,
-búsqueda y almacenamiento de datos.
+Este archivo define los endpoints de la API utilizando FastAPI y maneja la lógica de consulta, búsqueda y almacenamiento de datos.
 
-3. Módulo de manejo de datos (data_handler.py)
-   
+2. Módulo de manejo de datos (data_handler.py)
+
 Encargado de leer y escribir en el archivo JSON que almacena las preguntas y respuestas.
-5. Archivo JSON (faqs.json)
+
+3. Archivo JSON (faqs.json)
 
 Contiene las preguntas frecuentes y sus respuestas en formato estructurado.
-6. Interfaz Web (templates/index.html)
+
+4. Interfaz Web (templates/index.html)
 
 Una página HTML simple que permite a los asesores interactuar con la API de manera visual.
 
-Paso a Paso para Poner en Marcha la Aplicación
-
 1. Clonar el Repositorio
-   
-git clone <https://github.com/carlos-morales06/Prueba_Cari_AI>
 
+git clone <https://github.com/carlos-morales06/Prueba_Cari_AI>
 cd Prueba_Cari_AI
 
-3. Crear un Entorno Virtual
-   
+2. Crear un Entorno Virtual
+
 Windows:
 
 python -m venv venv
-
 venv\Scripts\activate
 
-5. Instalar Dependencias
-   
+Mac/Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+3. Instalar Dependencias
+
 pip install -r requirements.txt
 
-7. Ejecutar el Servidor
-   
+4. Ejecutar el Servidor
+
 uvicorn app.main:app --reload
 
-9. Probar la API
-    
-Abrir el navegador y acceder a la documentación interactiva:
+5. Probar la API
 
+Abrir el navegador y acceder a la documentación interactiva en Swagger UI:
 http://127.0.0.1:8000/docs
