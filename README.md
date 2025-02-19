@@ -28,7 +28,7 @@ Contiene las preguntas frecuentes y sus respuestas en formato estructurado.
 
 Una página HTML simple que permite a los asesores interactuar con la API de manera visual.
 
-Paso a Paso para Poner en Marcha la Aplicación
+Paso a Paso para Poner en Marcha la Aplicación.
 
 1. Clonar el Repositorio
 
