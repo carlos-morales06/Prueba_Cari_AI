@@ -28,9 +28,12 @@ Contiene las preguntas frecuentes y sus respuestas en formato estructurado.
 
 Una página HTML simple que permite a los asesores interactuar con la API de manera visual.
 
+Paso a Paso para Poner en Marcha la Aplicación
+
 1. Clonar el Repositorio
 
 git clone <https://github.com/carlos-morales06/Prueba_Cari_AI>
+
 cd Prueba_Cari_AI
 
 2. Crear un Entorno Virtual
